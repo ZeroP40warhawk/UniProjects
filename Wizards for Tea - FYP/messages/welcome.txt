@@ -1,0 +1,9 @@
+The aim of this game is to show the player the challenges of requirements elicitation. You the player will need to find and meet with the stakeholders within the game.
+Once you find the stakeholders you will need interview each of them and ask them questions. Based on the answers the stakeholders give, you should be able to discover the requirements to devise a new system.
+Once you have gathered the requirements you will be need to decide which are the correct requirements for the system and devise it.
+
+The game is set in the world created by Terry Pratchett called Discworld. The world is a flat disc carried on the backs of four elephants astride a turtle that is floating through space.
+
+When playing it is best to to type commands in lowercase and if you need help with the commands just type Help. It will bring up a description of each command available in the game.
+
+You're a new wizard that has joined the Unseen University to begin your studies as a requirements elicitation wizard. You will be tasked with creating a new staff for the wizards in the university and discovering the requirements they have for the staff.
